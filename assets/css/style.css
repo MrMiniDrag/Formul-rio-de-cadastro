@@ -33,7 +33,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #0b24753b; /* Cor sobre a imagem com opacidade */
+    background-color: #0b24753b;
     z-index: 1;
 }
 
